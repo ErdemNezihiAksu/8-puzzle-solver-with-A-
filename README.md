@@ -20,6 +20,6 @@ You can view the decision tree of the algorithm. The objective of the algorith i
 ![Screenshot 2024-11-27 at 02 15 46](https://github.com/user-attachments/assets/a6120aaf-3a5b-4961-8e1e-8272ac219c9e)
 
 ## Moves.txt
-You can view the chosen moves for each state of the puzzle. The picture below shows the final moves of the puzzle. When the `h_score` is eqaul to zero, the puzzle is solved.
+You can view the chosen moves for each state of the puzzle. The picture below shows the final moves of the puzzle. When the `h_score` is equal to zero, the puzzle is solved.
 
 ![Screenshot 2024-11-27 at 02 16 06](https://github.com/user-attachments/assets/7a4d2f13-800b-4c92-8ded-86598ac8af5c)
