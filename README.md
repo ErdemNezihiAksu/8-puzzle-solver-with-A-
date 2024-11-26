@@ -4,10 +4,10 @@ A random given 8-puzzle is solved by using A* algorithm. In the txt files, you c
 ## Running the code
 You can simply write just "make" to run the program.
 ### Make commands:
-make compile: compile the program.
-make clean: Delete the .exe file.
-make run: run the program.
-make : Do all 3 above.
+- **make compile:** compile the program.
+- **make clean:** Delete the .exe file.
+- **make run:** run the program.
+- **make:** Do all 3 above.
 
 ## Initial State.txt
 You can view the initial state (a random 8-puzzle) of the game with current scores.
